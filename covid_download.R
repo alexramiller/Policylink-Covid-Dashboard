@@ -2,9 +2,7 @@ suppressWarnings(suppressMessages(library(magrittr)))
 suppressWarnings(suppressMessages(library(dplyr)))
 suppressWarnings(suppressMessages(library(curl)))
 
-bay_zips <- read.csv("bayarea_zipcodes.csv", stringsAsFactors = FALSE) %>%
-  select(ZIP) %>% mutate(ZIP = as.character(ZIP))
-
+bay_zips <- read.csv("bay_zips.csv", stringsAsFactors = FALSE)
 alameda <- read.csv(curl_download("https://opendata.arcgis.com/datasets/5d6bf4760af64db48b6d053e7569a47b_0.csv", "alameda.csv"), stringsAsFactors = FALSE)
 santa_clara <- read.csv(curl_download("https://data.sccgov.org/api/views/j2gj-bg6c/rows.csv?accessType=DOWNLOAD", "santa_clara.csv"), stringsAsFactors = FALSE)
 sf <- read.csv(curl_download("https://data.sfgov.org/api/views/tpyr-dvnc/rows.csv?accessType=DOWNLOAD", "sf.csv"), stringsAsFactors = FALSE)
