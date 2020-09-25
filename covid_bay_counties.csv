@@ -1,154 +1,154 @@
 "ZIP","NAME","Population","Cases","Rate"
-"95404","Napa",NA,NA,NA
-"95404","Sonoma",NA,NA,NA
-"95033","Santa Clara",NA,NA,NA
-"95033","San Mateo",NA,NA,NA
-"95441","Sonoma",NA,NA,NA
-"94956","Marin",NA,NA,NA
-"95206","Contra Costa",NA,NA,NA
-"94513","Contra Costa",NA,NA,NA
+"95404","Napa",-1,-1,-1
+"95404","Sonoma",-1,-1,-1
+"95033","Santa Clara",-1,-1,-1
+"95033","San Mateo",-1,-1,-1
+"95441","Sonoma",-1,-1,-1
+"94956","Marin",-1,-1,-1
+"95206","Contra Costa",-1,-1,-1
+"94513","Contra Costa",-1,-1,-1
 "95139","Santa Clara",7293,56,768
 "94158","San Francisco",7291,91,124.811411329
 "94089","Santa Clara",22313,156,699
-"95023","Santa Clara",NA,NA,NA
-"94575","Contra Costa",NA,NA,NA
+"95023","Santa Clara",-1,-1,-1
+"94575","Contra Costa",-1,-1,-1
 "94720","Alameda",1466,11,750.34106412
-"95472","Sonoma",NA,NA,NA
-"95471","Sonoma",NA,NA,NA
+"95472","Sonoma",-1,-1,-1
+"95471","Sonoma",-1,-1,-1
 "94550","Alameda",50668,387,763.79568959
 "94550","Santa Clara",50668,387,763.79568959
-"95461","Napa",NA,NA,NA
-"95461","Sonoma",NA,NA,NA
+"95461","Napa",-1,-1,-1
+"95461","Sonoma",-1,-1,-1
 "94132","San Mateo",31488,229,72.7261178861
 "94132","San Francisco",31488,229,72.7261178861
 "94133","San Francisco",26527,134,50.5145700606
-"95421","Sonoma",NA,NA,NA
-"94104","San Francisco",546,NA,NA
-"94111","San Francisco",3620,15,NA
-"95425","Sonoma",NA,NA,NA
-"94567","Napa",NA,NA,NA
-"95494","Sonoma",NA,NA,NA
-"95694","Solano",NA,NA,NA
-"95694","Napa",NA,NA,NA
-"95439","Sonoma",NA,NA,NA
+"95421","Sonoma",-1,-1,-1
+"94104","San Francisco",546,-1,-1
+"94111","San Francisco",3620,15,-1
+"95425","Sonoma",-1,-1,-1
+"94567","Napa",-1,-1,-1
+"95494","Sonoma",-1,-1,-1
+"95694","Solano",-1,-1,-1
+"95694","Napa",-1,-1,-1
+"95439","Sonoma",-1,-1,-1
 "95053","Santa Clara",3678,0,0
 "95119","Santa Clara",10472,58,554
-"94571","Solano",NA,NA,NA
-"94571","Contra Costa",NA,NA,NA
-"94019","San Mateo",NA,NA,NA
-"94030","San Mateo",NA,NA,NA
-"94062","Santa Clara",NA,NA,NA
-"94062","San Mateo",NA,NA,NA
+"94571","Solano",-1,-1,-1
+"94571","Contra Costa",-1,-1,-1
+"94019","San Mateo",-1,-1,-1
+"94030","San Mateo",-1,-1,-1
+"94062","Santa Clara",-1,-1,-1
+"94062","San Mateo",-1,-1,-1
 "94086","Santa Clara",49630,311,627
 "94110","San Francisco",74161,1565,211.0273593937
-"94516","Contra Costa",NA,NA,NA
-"95476","Solano",NA,NA,NA
-"95476","Napa",NA,NA,NA
-"95476","Sonoma",NA,NA,NA
+"94516","Contra Costa",-1,-1,-1
+"95476","Solano",-1,-1,-1
+"95476","Napa",-1,-1,-1
+"95476","Sonoma",-1,-1,-1
 "94709","Alameda",11734,28,238.62280552
 "95113","Santa Clara",1939,56,2888
-"95363","Santa Clara",NA,NA,NA
-"95607","Napa",NA,NA,NA
+"95363","Santa Clara",-1,-1,-1
+"95607","Napa",-1,-1,-1
 "94115","San Francisco",35004,432,123.414466918
 "94117","San Francisco",44239,239,54.0247293112
 "94108","San Francisco",14550,85,58.4192439862
-"94972","Sonoma",NA,NA,NA
-"94972","Marin",NA,NA,NA
-"94801","Contra Costa",NA,NA,NA
-"94564","Contra Costa",NA,NA,NA
-"94038","San Mateo",NA,NA,NA
-"94061","San Mateo",NA,NA,NA
-"94590","Solano",NA,NA,NA
-"94590","Contra Costa",NA,NA,NA
+"94972","Sonoma",-1,-1,-1
+"94972","Marin",-1,-1,-1
+"94801","Contra Costa",-1,-1,-1
+"94564","Contra Costa",-1,-1,-1
+"94038","San Mateo",-1,-1,-1
+"94061","San Mateo",-1,-1,-1
+"94590","Solano",-1,-1,-1
+"94590","Contra Costa",-1,-1,-1
 "95013","Santa Clara",77,0,0
-"94025","Santa Clara",NA,NA,NA
-"94025","San Mateo",NA,NA,NA
-"95445","Sonoma",NA,NA,NA
+"94025","Santa Clara",-1,-1,-1
+"94025","San Mateo",-1,-1,-1
+"95445","Sonoma",-1,-1,-1
 "94706","Alameda",20331,64,314.79022183
 "94706","Contra Costa",20331,64,314.79022183
-"94850","Contra Costa",NA,NA,NA
-"94933","Marin",NA,NA,NA
-"94952","Sonoma",NA,NA,NA
-"94952","Marin",NA,NA,NA
-"94954","Sonoma",NA,NA,NA
-"94954","Marin",NA,NA,NA
-"94973","Marin",NA,NA,NA
+"94850","Contra Costa",-1,-1,-1
+"94933","Marin",-1,-1,-1
+"94952","Sonoma",-1,-1,-1
+"94952","Marin",-1,-1,-1
+"94954","Sonoma",-1,-1,-1
+"94954","Marin",-1,-1,-1
+"94973","Marin",-1,-1,-1
 "95020","Santa Clara",63852,1461,2288
 "95037","Santa Clara",51652,585,1133
-"95076","Santa Clara",NA,NA,NA
+"95076","Santa Clara",-1,-1,-1
 "95117","Santa Clara",29592,469,1585
-"95140","Alameda",115,NA,0
-"95140","Santa Clara",115,NA,0
-"95219","Contra Costa",NA,NA,NA
-"95304","Alameda",NA,NA,NA
-"95304","Contra Costa",NA,NA,NA
-"95360","Santa Clara",NA,NA,NA
-"95430","Sonoma",NA,NA,NA
-"95431","Sonoma",NA,NA,NA
+"95140","Alameda",115,-1,0
+"95140","Santa Clara",115,-1,0
+"95219","Contra Costa",-1,-1,-1
+"95304","Alameda",-1,-1,-1
+"95304","Contra Costa",-1,-1,-1
+"95360","Santa Clara",-1,-1,-1
+"95430","Sonoma",-1,-1,-1
+"95431","Sonoma",-1,-1,-1
 "94122","San Francisco",62131,225,36.2138063124
 "94130","San Francisco",3064,37,120.7571801566
-"94401","San Mateo",NA,NA,NA
+"94401","San Mateo",-1,-1,-1
 "94502","Alameda",14061,55,391.15283408
-"94508","Napa",NA,NA,NA
-"94525","Solano",NA,NA,NA
-"94525","Contra Costa",NA,NA,NA
-"94534","Solano",NA,NA,NA
-"94534","Napa",NA,NA,NA
-"95444","Sonoma",NA,NA,NA
-"95449","Sonoma",NA,NA,NA
-"95451","Sonoma",NA,NA,NA
-"95486","Sonoma",NA,NA,NA
-"94548","Contra Costa",NA,NA,NA
-"94558","Solano",NA,NA,NA
-"94558","Napa",NA,NA,NA
-"94558","Sonoma",NA,NA,NA
+"94508","Napa",-1,-1,-1
+"94525","Solano",-1,-1,-1
+"94525","Contra Costa",-1,-1,-1
+"94534","Solano",-1,-1,-1
+"94534","Napa",-1,-1,-1
+"95444","Sonoma",-1,-1,-1
+"95449","Sonoma",-1,-1,-1
+"95451","Sonoma",-1,-1,-1
+"95486","Sonoma",-1,-1,-1
+"94548","Contra Costa",-1,-1,-1
+"94558","Solano",-1,-1,-1
+"94558","Napa",-1,-1,-1
+"94558","Sonoma",-1,-1,-1
 "94568","Alameda",68661,467,680.15321653
 "94568","Contra Costa",68661,467,680.15321653
-"94573","Napa",NA,NA,NA
-"94574","Napa",NA,NA,NA
-"94574","Sonoma",NA,NA,NA
-"94585","Solano",NA,NA,NA
-"94592","Solano",NA,NA,NA
+"94573","Napa",-1,-1,-1
+"94574","Napa",-1,-1,-1
+"94574","Sonoma",-1,-1,-1
+"94585","Solano",-1,-1,-1
+"94592","Solano",-1,-1,-1
 "94606","Alameda",37481,700,1867.61292388
 "94613","Alameda",0,0,0
-"94561","Contra Costa",NA,NA,NA
+"94561","Contra Costa",-1,-1,-1
 "94105","San Francisco",9155,82,89.5685417804
-"95448","Sonoma",NA,NA,NA
-"94002","San Mateo",NA,NA,NA
-"94949","Marin",NA,NA,NA
-"94015","San Mateo",NA,NA,NA
-"94015","San Francisco",NA,NA,NA
-"94928","Sonoma",NA,NA,NA
+"95448","Sonoma",-1,-1,-1
+"94002","San Mateo",-1,-1,-1
+"94949","Marin",-1,-1,-1
+"94015","San Mateo",-1,-1,-1
+"94015","San Francisco",-1,-1,-1
+"94928","Sonoma",-1,-1,-1
 "94114","San Francisco",34754,184,52.9435460666
-"94553","Solano",NA,NA,NA
-"94553","Contra Costa",NA,NA,NA
+"94553","Solano",-1,-1,-1
+"94553","Contra Costa",-1,-1,-1
 "95130","Santa Clara",14863,84,565
-"95615","Solano",NA,NA,NA
-"94503","Solano",NA,NA,NA
-"94503","Napa",NA,NA,NA
+"95615","Solano",-1,-1,-1
+"94503","Solano",-1,-1,-1
+"94503","Napa",-1,-1,-1
 "95391","Alameda",0,0,0
 "95391","Contra Costa",0,0,0
-"94596","Contra Costa",NA,NA,NA
-"95401","Sonoma",NA,NA,NA
+"94596","Contra Costa",-1,-1,-1
+"95401","Sonoma",-1,-1,-1
 "95046","Santa Clara",6025,112,1859
 "94134","San Mateo",42471,907,213.5574862847
 "94134","San Francisco",42471,907,213.5574862847
-"95407","Sonoma",NA,NA,NA
-"95625","Solano",NA,NA,NA
-"94576","Napa",NA,NA,NA
-"94963","Marin",NA,NA,NA
+"95407","Sonoma",-1,-1,-1
+"95625","Solano",-1,-1,-1
+"94576","Napa",-1,-1,-1
+"94963","Marin",-1,-1,-1
 "95128","Santa Clara",37665,369,980
-"94512","Solano",NA,NA,NA
+"94512","Solano",-1,-1,-1
 "94704","Alameda",30116,203,674.06030017
-"95606","Napa",NA,NA,NA
+"95606","Napa",-1,-1,-1
 "95122","Santa Clara",57780,1573,2722
-"94027","San Mateo",NA,NA,NA
-"95426","Sonoma",NA,NA,NA
+"94027","San Mateo",-1,-1,-1
+"95426","Sonoma",-1,-1,-1
 "95129","Santa Clara",39828,137,344
 "94538","Alameda",66369,544,819.65978092
 "94538","Santa Clara",66369,544,819.65978092
-"95497","Sonoma",NA,NA,NA
-"94404","San Mateo",NA,NA,NA
+"95497","Sonoma",-1,-1,-1
+"94404","San Mateo",-1,-1,-1
 "94710","Alameda",8458,81,957.6732088
 "94710","Contra Costa",8458,81,957.6732088
 "94580","Alameda",30055,389,1294.29379471
@@ -157,96 +157,96 @@
 "94131","San Francisco",29902,167,55.8491070831
 "94708","Alameda",9131,22,240.93746578
 "94708","Contra Costa",9131,22,240.93746578
-"94526","Contra Costa",NA,NA,NA
+"94526","Contra Costa",-1,-1,-1
 "94040","Santa Clara",35845,245,683
-"95409","Napa",NA,NA,NA
-"95409","Sonoma",NA,NA,NA
+"95409","Napa",-1,-1,-1
+"95409","Sonoma",-1,-1,-1
 "94118","San Francisco",41468,190,45.8184624288
-"94518","Contra Costa",NA,NA,NA
+"94518","Contra Costa",-1,-1,-1
 "94087","Santa Clara",57219,201,351
 "94605","Alameda",42945,706,1643.96320876
 "95051","Santa Clara",58123,351,604
-"94523","Contra Costa",NA,NA,NA
+"94523","Contra Costa",-1,-1,-1
 "94043","Santa Clara",31488,184,584
 "94555","Alameda",38582,156,404.33362708
-"94063","San Mateo",NA,NA,NA
+"94063","San Mateo",-1,-1,-1
 "95148","Santa Clara",48854,546,1118
 "94618","Alameda",15947,34,213.20624569
-"94559","Solano",NA,NA,NA
-"94559","Napa",NA,NA,NA
-"94559","Sonoma",NA,NA,NA
-"94901","Marin",NA,NA,NA
+"94559","Solano",-1,-1,-1
+"94559","Napa",-1,-1,-1
+"94559","Sonoma",-1,-1,-1
+"94901","Marin",-1,-1,-1
 "94611","Alameda",37425,195,521.04208417
 "94611","Contra Costa",37425,195,521.04208417
 "94305","Santa Clara",15730,22,140
 "94305","San Mateo",15730,22,140
-"94020","Santa Clara",NA,NA,NA
-"94020","San Mateo",NA,NA,NA
-"94960","Marin",NA,NA,NA
-"95462","Sonoma",NA,NA,NA
+"94020","Santa Clara",-1,-1,-1
+"94020","San Mateo",-1,-1,-1
+"94960","Marin",-1,-1,-1
+"95462","Sonoma",-1,-1,-1
 "94609","Alameda",23421,252,1075.95747406
 "95134","Alameda",27224,148,544
 "95134","Santa Clara",27224,148,544
-"94530","Alameda",NA,NA,NA
-"94530","Contra Costa",NA,NA,NA
+"94530","Alameda",-1,-1,-1
+"94530","Contra Costa",-1,-1,-1
 "94112","San Mateo",85166,1696,199.1405020782
 "94112","San Francisco",85166,1696,199.1405020782
-"95405","Sonoma",NA,NA,NA
+"95405","Sonoma",-1,-1,-1
 "94578","Alameda",41044,695,1693.30474613
-"94946","Marin",NA,NA,NA
+"94946","Marin",-1,-1,-1
 "95136","Santa Clara",47599,600,1261
 "94587","Alameda",72559,754,1039.15434336
-"94939","Marin",NA,NA,NA
+"94939","Marin",-1,-1,-1
 "94539","Alameda",55093,173,314.0144846
 "94539","Santa Clara",55093,173,314.0144846
-"94599","Napa",NA,NA,NA
-"94510","Solano",NA,NA,NA
-"94510","Contra Costa",NA,NA,NA
-"94511","Contra Costa",NA,NA,NA
-"94945","Sonoma",NA,NA,NA
-"94945","Marin",NA,NA,NA
-"94924","Marin",NA,NA,NA
+"94599","Napa",-1,-1,-1
+"94510","Solano",-1,-1,-1
+"94510","Contra Costa",-1,-1,-1
+"94511","Contra Costa",-1,-1,-1
+"94945","Sonoma",-1,-1,-1
+"94945","Marin",-1,-1,-1
+"94924","Marin",-1,-1,-1
 "94542","Alameda",14094,143,1014.61614872
-"94930","Marin",NA,NA,NA
+"94930","Marin",-1,-1,-1
 "94129","San Francisco",3994,34,85.1276915373
-"95687","Solano",NA,NA,NA
-"95234","Contra Costa",NA,NA,NA
+"95687","Solano",-1,-1,-1
+"95234","Contra Costa",-1,-1,-1
 "95131","Santa Clara",31170,233,748
-"95616","Solano",NA,NA,NA
+"95616","Solano",-1,-1,-1
 "95014","Santa Clara",62430,113,181
 "95132","Alameda",41844,308,736
 "95132","Santa Clara",41844,308,736
-"94582","Alameda",NA,NA,NA
-"94582","Contra Costa",NA,NA,NA
-"94964","Marin",NA,NA,NA
-"94591","Solano",NA,NA,NA
-"94591","Napa",NA,NA,NA
-"94591","Contra Costa",NA,NA,NA
-"94583","Alameda",NA,NA,NA
-"94583","Contra Costa",NA,NA,NA
+"94582","Alameda",-1,-1,-1
+"94582","Contra Costa",-1,-1,-1
+"94964","Marin",-1,-1,-1
+"94591","Solano",-1,-1,-1
+"94591","Napa",-1,-1,-1
+"94591","Contra Costa",-1,-1,-1
+"94583","Alameda",-1,-1,-1
+"94583","Contra Costa",-1,-1,-1
 "94603","Alameda",32296,1355,4195.56601437
 "95050","Santa Clara",39452,360,913
-"94929","Marin",NA,NA,NA
-"94565","Solano",NA,NA,NA
-"94565","Contra Costa",NA,NA,NA
-"95412","Sonoma",NA,NA,NA
+"94929","Marin",-1,-1,-1
+"94565","Solano",-1,-1,-1
+"94565","Contra Costa",-1,-1,-1
+"95412","Sonoma",-1,-1,-1
 "95138","Santa Clara",20766,166,799
-"94509","Contra Costa",NA,NA,NA
-"95620","Solano",NA,NA,NA
+"94509","Contra Costa",-1,-1,-1
+"95620","Solano",-1,-1,-1
 "94546","Alameda",44888,386,859.91801818
-"94547","Contra Costa",NA,NA,NA
-"94556","Contra Costa",NA,NA,NA
-"94060","San Mateo",NA,NA,NA
-"95641","Solano",NA,NA,NA
-"95688","Solano",NA,NA,NA
-"95688","Napa",NA,NA,NA
-"95612","Solano",NA,NA,NA
-"94074","San Mateo",NA,NA,NA
-"95690","Solano",NA,NA,NA
+"94547","Contra Costa",-1,-1,-1
+"94556","Contra Costa",-1,-1,-1
+"94060","San Mateo",-1,-1,-1
+"95641","Solano",-1,-1,-1
+"95688","Solano",-1,-1,-1
+"95688","Napa",-1,-1,-1
+"95612","Solano",-1,-1,-1
+"94074","San Mateo",-1,-1,-1
+"95690","Solano",-1,-1,-1
 "94545","Alameda",32533,478,1469.27734915
-"94520","Contra Costa",NA,NA,NA
-"94531","Contra Costa",NA,NA,NA
-"95679","Napa",NA,NA,NA
+"94520","Contra Costa",-1,-1,-1
+"94531","Contra Costa",-1,-1,-1
+"95679","Napa",-1,-1,-1
 "94304","Santa Clara",3902,30,769
 "94304","San Mateo",3902,30,769
 "94022","Santa Clara",19378,77,397
@@ -254,157 +254,157 @@
 "94024","Santa Clara",23961,74,309
 "94505","Alameda",0,0,0
 "94505","Contra Costa",0,0,0
-"94506","Contra Costa",NA,NA,NA
+"94506","Contra Costa",-1,-1,-1
 "94306","Santa Clara",27549,115,417
-"94402","San Mateo",NA,NA,NA
-"95618","Solano",NA,NA,NA
-"94028","Santa Clara",NA,NA,NA
-"94028","San Mateo",NA,NA,NA
-"94037","San Mateo",NA,NA,NA
-"94044","San Mateo",NA,NA,NA
+"94402","San Mateo",-1,-1,-1
+"95618","Solano",-1,-1,-1
+"94028","Santa Clara",-1,-1,-1
+"94028","San Mateo",-1,-1,-1
+"94037","San Mateo",-1,-1,-1
+"94044","San Mateo",-1,-1,-1
 "94116","San Francisco",47823,166,34.7113313677
 "94121","San Francisco",43795,188,42.927274803
 "94514","Alameda",0,0,0
 "94514","Contra Costa",0,0,0
-"94517","Contra Costa",NA,NA,NA
-"95680","Solano",NA,NA,NA
-"94533","Solano",NA,NA,NA
+"94517","Contra Costa",-1,-1,-1
+"95680","Solano",-1,-1,-1
+"94533","Solano",-1,-1,-1
 "94536","Alameda",73121,519,709.78241545
-"94005","San Mateo",NA,NA,NA
-"94005","San Francisco",NA,NA,NA
-"94010","San Mateo",NA,NA,NA
-"94014","San Mateo",NA,NA,NA
-"94014","San Francisco",NA,NA,NA
-"94021","San Mateo",NA,NA,NA
+"94005","San Mateo",-1,-1,-1
+"94005","San Francisco",-1,-1,-1
+"94010","San Mateo",-1,-1,-1
+"94014","San Mateo",-1,-1,-1
+"94014","San Francisco",-1,-1,-1
+"94021","San Mateo",-1,-1,-1
 "94501","Alameda",63522,346,544.69317717
 "94501","San Francisco",63522,346,544.69317717
-"94065","San Mateo",NA,NA,NA
-"94070","San Mateo",NA,NA,NA
+"94065","San Mateo",-1,-1,-1
+"94070","San Mateo",-1,-1,-1
 "94107","San Francisco",29689,339,114.1837044023
 "94109","San Francisco",56677,632,111.5090777564
-"94080","San Mateo",NA,NA,NA
+"94080","San Mateo",-1,-1,-1
 "94102","San Francisco",31067,744,239.482408987
 "94103","San Francisco",28735,590,205.3245171393
 "94123","San Francisco",25941,170,65.5333256235
 "94127","San Francisco",21423,100,46.6788031554
-"94128","San Mateo",NA,NA,NA
+"94128","San Mateo",-1,-1,-1
 "94301","Santa Clara",17191,98,570
 "94301","San Mateo",17191,98,570
-"94598","Contra Costa",NA,NA,NA
-"94923","Sonoma",NA,NA,NA
-"94923","Marin",NA,NA,NA
-"95006","San Mateo",NA,NA,NA
-"95017","San Mateo",NA,NA,NA
+"94598","Contra Costa",-1,-1,-1
+"94923","Sonoma",-1,-1,-1
+"94923","Marin",-1,-1,-1
+"95006","San Mateo",-1,-1,-1
+"95017","San Mateo",-1,-1,-1
 "94586","Alameda",1041,12,1152.73775216
 "94588","Alameda",32788,197,600.82957179
 "94588","Contra Costa",32788,197,600.82957179
-"95450","Sonoma",NA,NA,NA
+"95450","Sonoma",-1,-1,-1
 "95030","Santa Clara",13288,49,369
 "94579","Alameda",20385,192,941.86902134
 "94551","Alameda",40466,509,1257.84609302
 "94551","Contra Costa",40466,509,1257.84609302
-"94806","Contra Costa",NA,NA,NA
+"94806","Contra Costa",-1,-1,-1
 "94552","Alameda",15034,71,472.26287083
 "94552","Contra Costa",15034,71,472.26287083
-"94903","Marin",NA,NA,NA
-"94920","Marin",NA,NA,NA
-"94920","San Francisco",NA,NA,NA
-"94922","Sonoma",NA,NA,NA
-"94922","Marin",NA,NA,NA
+"94903","Marin",-1,-1,-1
+"94920","Marin",-1,-1,-1
+"94920","San Francisco",-1,-1,-1
+"94922","Sonoma",-1,-1,-1
+"94922","Marin",-1,-1,-1
 "95054","Santa Clara",24264,234,964
-"94589","Solano",NA,NA,NA
-"94589","Napa",NA,NA,NA
-"94595","Contra Costa",NA,NA,NA
-"94597","Contra Costa",NA,NA,NA
-"94937","Marin",NA,NA,NA
-"94941","Marin",NA,NA,NA
+"94589","Solano",-1,-1,-1
+"94589","Napa",-1,-1,-1
+"94595","Contra Costa",-1,-1,-1
+"94597","Contra Costa",-1,-1,-1
+"94937","Marin",-1,-1,-1
+"94941","Marin",-1,-1,-1
 "94607","Alameda",28264,359,1270.16699689
-"94925","Marin",NA,NA,NA
-"94931","Sonoma",NA,NA,NA
-"94563","Alameda",NA,NA,NA
-"94563","Contra Costa",NA,NA,NA
-"94938","Marin",NA,NA,NA
-"94940","Marin",NA,NA,NA
+"94925","Marin",-1,-1,-1
+"94931","Sonoma",-1,-1,-1
+"94563","Alameda",-1,-1,-1
+"94563","Contra Costa",-1,-1,-1
+"94938","Marin",-1,-1,-1
+"94940","Marin",-1,-1,-1
 "95070","Santa Clara",31308,104,332
-"94549","Contra Costa",NA,NA,NA
+"94549","Contra Costa",-1,-1,-1
 "94608","Alameda",32602,258,791.3624931
 "94612","Alameda",19181,119,620.40560972
 "95008","Santa Clara",46513,336,722
-"94965","Marin",NA,NA,NA
+"94965","Marin",-1,-1,-1
 "94560","Alameda",49183,560,1138.60480247
 "94619","Alameda",23664,367,1550.87897228
 "94619","Contra Costa",23664,367,1550.87897228
-"94947","Marin",NA,NA,NA
-"94950","Marin",NA,NA,NA
+"94947","Marin",-1,-1,-1
+"94950","Marin",-1,-1,-1
 "94621","Alameda",31847,1364,4282.97798851
 "94702","Alameda",16364,108,659.98533366
 "94703","Alameda",20296,147,724.28064643
 "94566","Alameda",47061,249,529.1005291
-"94572","Contra Costa",NA,NA,NA
+"94572","Contra Costa",-1,-1,-1
 "94577","Alameda",48690,633,1300.06161429
 "94705","Alameda",12914,54,418.15084405
 "94705","Contra Costa",12914,54,418.15084405
 "94707","Alameda",9445,19,201.16463737
 "94707","Contra Costa",9445,19,201.16463737
-"94970","Marin",NA,NA,NA
+"94970","Marin",-1,-1,-1
 "95002","Alameda",2146,33,1538
 "95002","Santa Clara",2146,33,1538
 "95032","Santa Clara",26281,129,491
-"94804","Alameda",NA,NA,NA
-"94804","Contra Costa",NA,NA,NA
-"94805","Contra Costa",NA,NA,NA
+"94804","Alameda",-1,-1,-1
+"94804","Contra Costa",-1,-1,-1
+"94805","Contra Costa",-1,-1,-1
 "95120","Santa Clara",37774,177,469
 "95135","Santa Clara",22358,78,349
-"95387","Alameda",NA,NA,NA
-"95387","Santa Clara",NA,NA,NA
-"95457","Napa",NA,NA,NA
+"95387","Alameda",-1,-1,-1
+"95387","Santa Clara",-1,-1,-1
+"95457","Napa",-1,-1,-1
 "95121","Santa Clara",38102,449,1178
 "95123","Santa Clara",67186,725,1079
 "95124","Santa Clara",51170,264,516
 "95125","Santa Clara",53574,495,924
 "95126","Santa Clara",35988,455,1264
-"95403","Sonoma",NA,NA,NA
+"95403","Sonoma",-1,-1,-1
 "95127","Santa Clara",65686,1367,2081
-"95442","Napa",NA,NA,NA
-"95442","Sonoma",NA,NA,NA
+"95442","Napa",-1,-1,-1
+"95442","Sonoma",-1,-1,-1
 "95110","Santa Clara",20203,449,2222
 "95111","Santa Clara",62392,1363,2185
 "95112","Santa Clara",61060,892,1461
 "95116","Santa Clara",56481,1396,2472
 "95118","Santa Clara",32560,270,829
-"95492","Sonoma",NA,NA,NA
-"95045","Santa Clara",NA,NA,NA
+"95492","Sonoma",-1,-1,-1
+"95045","Santa Clara",-1,-1,-1
 "94124","San Mateo",35363,1378,389.6728218759
 "94124","San Francisco",35363,1378,389.6728218759
-"94303","Santa Clara",NA,NA,NA
-"94303","San Mateo",NA,NA,NA
-"94528","Contra Costa",NA,NA,NA
-"94535","Solano",NA,NA,NA
+"94303","Santa Clara",-1,-1,-1
+"94303","San Mateo",-1,-1,-1
+"94528","Contra Costa",-1,-1,-1
+"94535","Solano",-1,-1,-1
 "94544","Alameda",78780,1778,2256.91799949
 "95133","Santa Clara",28726,357,1243
-"95436","Sonoma",NA,NA,NA
-"95446","Sonoma",NA,NA,NA
-"94904","Marin",NA,NA,NA
-"94951","Sonoma",NA,NA,NA
-"94066","San Mateo",NA,NA,NA
-"94803","Contra Costa",NA,NA,NA
-"94957","Marin",NA,NA,NA
-"94521","Contra Costa",NA,NA,NA
-"94515","Napa",NA,NA,NA
-"94515","Sonoma",NA,NA,NA
-"95637","Napa",NA,NA,NA
+"95436","Sonoma",-1,-1,-1
+"95446","Sonoma",-1,-1,-1
+"94904","Marin",-1,-1,-1
+"94951","Sonoma",-1,-1,-1
+"94066","San Mateo",-1,-1,-1
+"94803","Contra Costa",-1,-1,-1
+"94957","Marin",-1,-1,-1
+"94521","Contra Costa",-1,-1,-1
+"94515","Napa",-1,-1,-1
+"94515","Sonoma",-1,-1,-1
+"95637","Napa",-1,-1,-1
 "94041","Santa Clara",14394,122,848
-"94569","Contra Costa",NA,NA,NA
+"94569","Contra Costa",-1,-1,-1
 "94602","Alameda",30240,348,1150.79365079
 "95377","Alameda",0,0,0
-"94507","Contra Costa",NA,NA,NA
-"95465","Sonoma",NA,NA,NA
+"94507","Contra Costa",-1,-1,-1
+"95465","Sonoma",-1,-1,-1
 "94601","Alameda",53676,2163,4029.73395931
-"95452","Napa",NA,NA,NA
-"95452","Sonoma",NA,NA,NA
+"95452","Napa",-1,-1,-1
+"95452","Sonoma",-1,-1,-1
 "94085","Santa Clara",23612,260,1101
-"94519","Contra Costa",NA,NA,NA
+"94519","Contra Costa",-1,-1,-1
 "94541","Alameda",67027,1406,2097.66213615
-"94403","San Mateo",NA,NA,NA
-"94971","Marin",NA,NA,NA
+"94403","San Mateo",-1,-1,-1
+"94971","Marin",-1,-1,-1
 "94610","Alameda",30892,170,550.3042859
