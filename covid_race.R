@@ -11,13 +11,19 @@ sf <- read.csv(curl_download("https://data.sfgov.org/api/views/vqqm-nsqg/rows.cs
 
 sf_new <- sf %>%
   select(Specimen.Collection.Date, Race.Ethnicity, New.Confirmed.Cases) %>%
+  mutate(Race.Ethnicity = ifelse(Race.Ethnicity %in% c("Other", "Unknown", "Multi-racial", "Native American", "Native Hawaiian or Other Pacific Islander"), "Other", Race.Ethnicity)) %>%
+  group_by(Specimen.Collection.Date, Race.Ethnicity) %>%
+  summarize(New.Confirmed.Cases = sum(New.Confirmed.Cases, na.rm = TRUE)) %>%
   group_by(Specimen.Collection.Date) %>%
   spread(Race.Ethnicity, New.Confirmed.Cases) %>%
   ungroup() %>%
-  mutate_at(vars(Asian:White), function(x) rollmean(x, 7))
+  mutate_at(vars(Asian:White), function(x) rollmean(x, 7, na.pad = TRUE))
 
 sf_cumulative <- sf %>%
   select(Specimen.Collection.Date, Race.Ethnicity, Cumulative.Confirmed.Cases) %>%
+  mutate(Race.Ethnicity = ifelse(Race.Ethnicity %in% c("Other", "Unknown", "Multi-racial", "Native American", "Native Hawaiian or Other Pacific Islander"), "Other", Race.Ethnicity)) %>%
+  group_by(Specimen.Collection.Date, Race.Ethnicity) %>%
+  summarize(Cumulative.Confirmed.Cases = sum(Cumulative.Confirmed.Cases, na.rm = TRUE)) %>%
   group_by(Specimen.Collection.Date) %>%
   spread(Race.Ethnicity, Cumulative.Confirmed.Cases)
 
