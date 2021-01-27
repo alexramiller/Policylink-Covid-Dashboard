@@ -11,6 +11,7 @@ sf <- read.csv(curl_download("https://data.sfgov.org/api/views/vqqm-nsqg/rows.cs
 
 sf_cumulative <- sf %>%
   select(Specimen.Collection.Date, Race.Ethnicity, Cumulative.Confirmed.Cases) %>%
+  group_by(Specimen.Collection.Date, Race.Ethnicity) %>% summarize_all(first) %>% ungroup() %>%
   mutate(Race.Ethnicity = ifelse(Race.Ethnicity %in% c("Other", "Unknown", "Multi-racial"), "Other", Race.Ethnicity)) %>%
   group_by(Specimen.Collection.Date, Race.Ethnicity) %>%
   summarize(Cumulative.Confirmed.Cases = sum(Cumulative.Confirmed.Cases, na.rm = TRUE)) %>%
@@ -35,7 +36,7 @@ alameda_cumulative <- alameda %>%
   mutate(`Asian/Pacific Islander` = Asian + PacIsl,
          Other = Multirace + Other_Unknown_Race) %>%
   group_by(Week_Ending) %>% summarize_at(c("Asian/Pacific Islander", "Black", "Hispanic or Latino/a", "Native American", "White", "Other"), sum) %>%
-  mutate_all(function(x) ifelse(x == 0, NA, x))
+  mutate_at(vars(`Asian/Pacific Islander`:Other), function(x) ifelse(x == 0, NA, x))
   
 write.csv(alameda_cumulative, "alameda_race_cumulative.csv", row.names = FALSE)
 

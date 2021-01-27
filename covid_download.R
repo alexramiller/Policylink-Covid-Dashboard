@@ -14,9 +14,9 @@ sf <- read.csv(curl_download("https://data.sfgov.org/api/views/tpyr-dvnc/rows.cs
 sonoma <- read_file(curl_download("https://socoemergency.org/emergency/novel-coronavirus/coronavirus-cases/", "sonoma.html"))
 sonoma <- str_extract(sonoma, "(?s)Cases by Zip Code(.*?)Cases by Source")
 sonoma <- as.data.frame(read_html(sonoma) %>% html_table(fill=TRUE)) %>%
-  select(ZIP = Zip.Code, Cases = Active.Cases, Rate = Active.Case.Rate.per.100.000.Residents) %>%
-  mutate(Cases = ifelse(Cases == "<11", 6, Cases),
-         Cases = as.numeric(Cases),
+  select(ZIP = Zip.Code, Cases = Total.Cases, Rate = Total.Case.Rate.per.100.000.Residents) %>%
+  mutate(Cases = ifelse(Cases == "10 or less", 5, Cases),
+         Cases = as.numeric(str_remove(Cases, ",")),
          Population = round(100000*Cases/Rate, 0))
 
 if(!exists("alameda") & !exists("santa_clara") & !exists("sf") & !exists("sonoma")){
